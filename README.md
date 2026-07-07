@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+
+
+## some thing 
+- 🔭 I’m currently working on **DATA SCIENCE**
+- 🌱 I’m currently learning **SQL**
+- 👯 I’m looking to collaborate on **Web delvelopment using python flask** 
+- 🤔 I’m looking for help with noting 
+- 💬 Ask me about anything 
+- 📫 How to reach me: **7980561223**||**ravineeshsingh23@gmail.com** 
 <!--
 **Ravineesh2005/Ravineesh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
